@@ -14,5 +14,6 @@ I enjoy doing things that can create a good impact on people.
 - 😄 Pronouns: My pronouns are She/Hers
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhavana123456&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
