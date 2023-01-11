@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 Hi, I am a frontend- software developer. I love to write code, reading books and sweets!!!.
 I enjoy doing things that can create a good impact on people.
 
-- 🌱 I’m currently practicing by Data structures and algorithms.
+- 🌱 I’m currently practising by Data structures and algorithms.
 - 👯 I’m looking to collaborate on projects related to Web Development
 - 💬 Ask me about React, typescript, Java, HTML/CSS
 - 📫 How to reach me: you can reach me out on bhavanaacharya80@gmail.com
